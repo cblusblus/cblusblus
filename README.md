@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+C++ 알려주는 불불이형!
+
 <!--
 **cblusblus/cblusblus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
